@@ -41,6 +41,8 @@ jobs:
           git --version
           echo Check php version
           php --version
+          echo who is running this program
+          whoami
           
           
           
